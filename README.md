@@ -1,2 +1,2 @@
 # selfhosted
-A repository to host some serviceson your own
+A repository to host some services on your own
